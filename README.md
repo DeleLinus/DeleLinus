@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-- 🏣 I’m currently working as a Freelance Full Stack Data Scientist (✨You name the data task, I got it! And if I haven't done it before, I learn & try to deliver the best results to you)
-- 🔭 Focusing on Data Engineering and currently 🌱 learning more about it
+# 💫 A Freelance Full Stack Data Scientist from Nigeria (You name the data task, I got it! And if I haven't done it before, I learn & try to deliver the best results to you)
+- 🔭 I am currently working on [HFR Data Warehousing](https://github.com/DeleLinus/HFR-Data-Warehousing)
+- 🌱 I am currently learning more about Data Engineering and particularly using AWS
 - 👯 I’m looking to collaborate on any Data Science and Engineering Project
 - 🤝 I’m looking to be a part of an Organization's success with my contribution
 - 💬 Ask me about tech-related topics (and maybe Music)
