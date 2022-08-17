@@ -23,7 +23,6 @@ You name the data task, I got it! And if I haven't done it before, I learn & try
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I would be Engineering classical music if not Data<br>
 
-# 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=DeleLinus&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=DeleLinus&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
