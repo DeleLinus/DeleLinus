@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 A Freelance Full Stack Data Scientist from Nigeria 
+
 ![DSC_8505](https://github.com/DeleLinus/HFR-Analytics/assets/58152694/ce5d085b-7998-4b0c-8f48-e0922332a08b)
+
 You name the data task, I got it! And if I haven't done it before, I learn & try to deliver the best results to you 
 <img src="https://github-readme-stats.vercel.app/api?username=DeleLinus&theme=radical&hide_border=false&include_all_commits=false&count_private=true" align='right' width="50%">  
 <br>
